@@ -2,18 +2,26 @@
 
 /**
  * print_diagonal - printing a diagonal line
- * @n: number of times
+ * @n: input variable
  *
  * Return: void
  */
 
-void print_diagonal(int n);
-{
-	int i;
 
-	for (i = '0'; i < 'n'; i++)
+void print_diagonal(int n)
+{
+	int i, j;
+
+	if (n <= 0)
+		_putchar('\n');
+	for (i = 0; i < n; i++)
 	{
-		_putchar('\')
+		for (j = 0; j < i; j++)
+		{
+			_putchar(' ');
+		}
+		_putchar('\\');
+		_putchar('\n');
 	}
-	_putchar('\n')
+
 }

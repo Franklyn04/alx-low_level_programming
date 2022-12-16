@@ -1,7 +1,7 @@
 #include "main.h"
 
 /**
- * print_most_numbers - prints
+ * print_most_numbers - print 01356789
  *
  * Return: void
  */
@@ -15,5 +15,5 @@ void print_most_numbers(void);
 	if (!(c == '2' || c == '4'))
 	_putchar(c);
 	}
-	_putchar('\n')
+	_putchar('\n');
 }

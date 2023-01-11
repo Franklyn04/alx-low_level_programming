@@ -1,21 +1,3 @@
-BrightDaniel
-/
-alx-low_level_programming
-Public
-Code
-Issues
-2
-Pull requests
-Actions
-Projects
-Security
-Insights
-alx-low_level_programming/0x0A-argc_argv/4-add.c
-@BrightDaniel
-BrightDaniel argc tasks
-…
- 1 contributor
-38 lines (34 sloc)  454 Bytes
 #include <stdio.h>
 #include <stdlib.h>
 

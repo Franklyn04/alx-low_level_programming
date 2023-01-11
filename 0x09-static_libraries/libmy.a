@@ -1,0 +1,21 @@
+0-isupper.o    _isupper
+0-memset.o    _memset
+0-strcat.o    _strcat
+100-atoi.o    _atoi
+1-isdigit.o    _isdigit
+1-memcpy.o    _memcpy
+1-strncat.o    _strncat
+2-strchr.o    _strchr
+2-strlen.o    _strlen
+2-strncpy.o    _strncpy
+3-islower.o    _islower
+3-puts.o    _puts
+3-strcmp.o    _strcmp
+3-strspn.o    _strspn
+4-isalpha.o    _isalpha
+4-strpbrk.o    _strpbrk
+5-strstr.o    _strstr
+6-abs.o    _abs
+9-strcpy.o    _strcpy
+_putchar.o    _putchar
+
